@@ -19,4 +19,3 @@ class Restaurante:
 restaurante_praca = Restaurante('Praça','Gourmet')
 restarante_pizza = Restaurante('Pizza Premium','Italiana')
 Restaurante.lista_restaurantes()
-print('test')
